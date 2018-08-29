@@ -19,3 +19,12 @@
     background-color: #8BC34A;
     box-shadow: 2px 2px 4px #998e8e;
 }
+
+#signature {
+    margin-right: 5px;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    font-size: 14px;
+    text-shadow: 5px 4px 12px black;
+}
